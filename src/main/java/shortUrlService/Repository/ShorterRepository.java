@@ -1,4 +1,4 @@
-package shortUrlService;
+package shortUrlService.Repository;
 
 import org.springframework.data.repository.CrudRepository;
 import shortUrlService.Entity.Shorter;
